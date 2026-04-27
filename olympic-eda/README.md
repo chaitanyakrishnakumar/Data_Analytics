@@ -1,4 +1,4 @@
-# 🏅 Olympic Athletes EDA
+# 🏅 Olympic Athletes EDA Project
 
 Exploratory Data Analysis on the Olympic Athletes dataset from Kaggle.
 
